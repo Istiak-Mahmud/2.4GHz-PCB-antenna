@@ -1,7 +1,7 @@
 # 2.4GHz-PCB-antenna
 It can be used in all 2.4 GHz designs, especially where small space is required for the antenna. 
 
-![image](https://user-images.githubusercontent.com/63910470/146196286-ebab79f9-c0d6-4674-8bf4-ffedbc62fa47.png)
+![image](https://github.com/Istiak-Mahmud/2.4GHz-PCB-antenna/blob/main/Bottom.png?raw=true)
 
 This application note describes the PCB antenna used in the CC2511 USB dongle reference design.
 Even though the antenna is designed for a USB dongle, it can be utilized in any 2.4 GHz design, especially if a compact antenna is required.
