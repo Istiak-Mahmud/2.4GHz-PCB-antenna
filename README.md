@@ -9,3 +9,6 @@ Even though the antenna is designed for a USB dongle, it can be utilized in any 
 ![image](https://github.com/Istiak-Mahmud/2.4GHz-PCB-antenna/blob/main/SCH_Lib.png?raw=true)
 
 When coupled to a 50-ohm source, the suggested antenna design uses no more than 15.2 x 5.7 mm of the area and ensures a VSWR ratio of less than two across the 2.4 GHz ISM band.
+
+# Reference
+[1] Andersen, Audun. “Small Size 2.4 GHz PCB Antenna .” Texas Instruments. Accessed January 14, 2022. https://www.ti.com/lit/an/swra117d/swra117d.pdf.
