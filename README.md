@@ -17,3 +17,5 @@ When coupled to a 50-ohm source, the suggested antenna design uses no more than 
 
 [2] "PCB Antenna for USB Dongle and BLE Applications." MATLAB. Accessed November 5, 2022. https://www.mathworks.com/help/antenna/ug/pcb-antenna-for-usb-dongle-and-ble-applications.html
 
+[3] https://www.st.com/resource/en/application_note/an5129-low-cost-pcb-antenna-for-24ghz-radio-meander-design-for-stm32wb-series-stmicroelectronics.pdf
+
