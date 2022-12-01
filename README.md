@@ -19,3 +19,5 @@ When coupled to a 50-ohm source, the suggested antenna design uses no more than 
 
 [3] https://www.st.com/resource/en/application_note/an5129-low-cost-pcb-antenna-for-24ghz-radio-meander-design-for-stm32wb-series-stmicroelectronics.pdf
 
+[4] https://devzone.nordicsemi.com/f/nordic-q-a/26184/mifa-antenna-for-nrf52832
+
